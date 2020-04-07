@@ -54,7 +54,7 @@ $v = $_SESSION['鍵值']
 1. 若沒有 GitHub 帳號，請建立 [GitHub 帳號](https://github.com/join)
     1. 新建帳號請使用稍微正式一點的英文名稱，以後也許可作為作品記錄
     2. 請將帳號名稱 Email 或 LINE 給老師
-2. 點選[作業連結](https://classroom.github.com/a/LwUQ3-d8)後，同意```Accept this assignment```後加入作業
+2. 點選[作業連結](https://classroom.github.com/a/tWLLhtd9)後，同意```Accept this assignment```後加入作業
     1. 組長加入即可
     2. 若組長換人，新組長必須重新加入作業
     3. 以後每個作業要一次
